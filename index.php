@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		
+
+        <title>SARASOTA REAL ESTATE | SARASOTA HOMES FOR SALE - FLORIDA</title>
+
 		<link rel="stylesheet" href="css/jquery.mobile-1.4.5.css">
 
 		<script src="js/jquery-1.11.2.js"></script>
@@ -91,9 +93,9 @@
 		<div id="header-image" data-role="header" data-theme="<?php echo $theme ?>" data-position="fixed">
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
-		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site<a href="http://mysarasotafloridahomes.com/" rel="external">  Clasic Site</a></h1>
-		</div>
+        <div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
+            <h1 style="font-weight: normal; font-size: 13px;">Powered By <a href="http://mobilegrows.com/" rel="external" style="text-decoration: none;">MobileGrows</a> | <a href="http://sarasotareal.estate/" rel="external" style="text-decoration: none;">  Desktop Site</a></h1>
+        </div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
 		  
